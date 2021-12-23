@@ -1,5 +1,6 @@
 # A number generator
 import tkinter as tk
+import random 
 
 #configure the window
 window = tk.Tk()
